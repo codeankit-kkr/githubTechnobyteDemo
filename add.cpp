@@ -6,6 +6,7 @@ int main(){
     // cin>>a;
     int b=3;
     // cin>>b;
-    cout<<a+b<<endl;
+    int sum = a+b;
+    cout<<sum<<endl;
     return 0;
 }
